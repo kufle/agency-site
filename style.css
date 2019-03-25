@@ -8,3 +8,22 @@
 .navbar .nav-item.active {
     border-left: #444 3px solid;
 }
+
+.carousel-item {
+    height: 450px;
+}
+
+.carousel-img-1 {
+    background: url('img/header1.jpg');
+    background-size: cover;
+}
+
+.carousel-img-2 {
+    background: url('img/header2.jpg');
+    background-size: cover;
+}
+
+.carousel-img-3 {
+    background: url('img/header3.jpg');
+    background-size: cover;
+}
